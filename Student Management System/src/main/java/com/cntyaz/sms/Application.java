@@ -20,13 +20,13 @@ public class Application implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		
-		/*Student student1 = new Student("Cuneyt", "Yaz", "cntyaz@gmail.com");
+		/*Student student1 = new Student("Jon", "Doe", "doery@gmail.com");
 		studentRepository.save(student1);
 	
-		Student student2 = new Student("Tuna", "Yaz", "tntyaz@gmail.com");
+		Student student2 = new Student("Marry", "Poppins", "popping@gmail.com");
 		studentRepository.save(student2);
 		
-		Student student3 = new Student("Gamze", "Yaz", "gmzyaz@gmail.com");
+		Student student3 = new Student("Sir", "Lancelot", "lancelot@gmail.com");
 		studentRepository.save(student3);*/
 	}
 
